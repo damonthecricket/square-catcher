@@ -1,1 +1,1 @@
-# square-catcher
+# square-hunter
